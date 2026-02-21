@@ -17,19 +17,20 @@ Python version: 3.11
 4. Initialize virtual enviroment
    ```bash
    python -m venv .venv
-5. Activate virtual enviroment
+5. Activate virtual environment
    ```bash
    Windows:
    .venv\Scripts\activate
 
    Mac/Linux:
-   source .venv/bin/activate   
-6. Install requirements
+   source .venv/bin/activate
+  
+7. Install requirements
    ```bash
    pip install -r requirements.txt
-7. Install Jupyter (optional)
+8. Install Jupyter (optional)
    ```bash
    pip install jupyterlab
-8. Run the code (Must have Jupyter)
-```bash
+9. Run the code (Must have Jupyter)
+   ```bash
    jupyter lab
