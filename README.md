@@ -6,6 +6,7 @@ This repository is for NLP course 2025–26.
 
 * **main** – contains materials and code for Assignment 1.
 * **main-second** – branch created for Assignment 2 development.
+* **main-third** – branch created for Assignment 3 development.
 
 ## Reproducibility
 
@@ -71,8 +72,8 @@ Python version: 3.11
 
 ### Working with branches
 
-To switch to the Assignment 2 branch after cloning:
+To switch to the Assignment 3 branch after cloning:
 
 ```bash
-git checkout assignment2
+git checkout main-third
 ```
